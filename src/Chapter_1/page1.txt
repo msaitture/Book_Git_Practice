@@ -2,7 +2,5 @@
 
 This is the start my book
 Page 1 will help us get started
-
-Java is cool
-
-James Bond is always with us
+Java is cool!
+God is always with us
